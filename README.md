@@ -15,6 +15,8 @@ Generates a CSV file containing a ***Name, Path and Hash*** (SHA256) for each fi
 
 6. Select a name for an output CSV file.
 7. The CSV file will be generated.
+8. The Info label shows the file generated.
+![image](https://github.com/cgers/FileHasher/assets/14121781/b7328bc6-2209-47fa-a7f0-8dc2a4a39492)
 
  
 ## Sample Output
